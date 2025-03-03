@@ -1,1 +1,1 @@
-# apnacollege_demo
+# apnacollege-demo
